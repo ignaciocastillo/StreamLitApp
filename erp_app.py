@@ -303,3 +303,4 @@ with tab6:
         if quote:
             st.write(f"Cita: {quote['value']}")
             st.write(f"Fecha: {quote['appeared_at']}")
+ 
